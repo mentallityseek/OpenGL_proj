@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/Gamer/Desktop/OpenGL/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\LAND_OUT.dir\\includes_CXX.rsp -g -o CMakeFiles\\LAND_OUT.dir\\src\\main.cpp.obj -c C:\\Users\\Gamer\\Desktop\\OpenGL\\src\\main.cpp",
+  "file": "C:/Users/Gamer/Desktop/OpenGL/src/main.cpp",
+  "output": "CMakeFiles/LAND_OUT.dir/src/main.cpp.obj"
+}
+]

@@ -135,6 +135,19 @@ LAND_OUT/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LAND_OUT.dir\build.make CMakeFiles/LAND_OUT.dir/build
 .PHONY : LAND_OUT/fast
 
+#=============================================================================
+# Target rules for targets named glad
+
+# Build rule for target.
+glad: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 glad
+.PHONY : glad
+
+# fast build rule for target.
+glad/fast:
+	$(MAKE) $(MAKESILENT) -f dependencies\glad\CMakeFiles\glad.dir\build.make dependencies/glad/CMakeFiles/glad.dir/build
+.PHONY : glad/fast
+
 src/main.obj: src/main.cpp.obj
 .PHONY : src/main.obj
 
@@ -169,6 +182,7 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... LAND_OUT
+	@echo ... glad
 	@echo ... src/main.obj
 	@echo ... src/main.i
 	@echo ... src/main.s

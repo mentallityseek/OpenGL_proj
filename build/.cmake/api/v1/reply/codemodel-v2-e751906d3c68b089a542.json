@@ -28,6 +28,10 @@
 						1
 					],
 					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
 					"jsonFile" : "directory-.-Debug-b5805d5c08fd3d92def4.json",
 					"minimumCMakeVersion" : 
 					{
@@ -38,6 +42,21 @@
 					"targetIndexes" : 
 					[
 						0
+					]
+				},
+				{
+					"build" : "dependencies/glad",
+					"jsonFile" : "directory-dependencies.glad-Debug-73e0976ab3d2045efc94.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "4.4.5"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "dependencies/glad",
+					"targetIndexes" : 
+					[
+						1
 					]
 				}
 			],
@@ -50,6 +69,10 @@
 						0,
 						1
 					],
+					"childIndexes" : 
+					[
+						1
+					],
 					"directoryIndexes" : 
 					[
 						0
@@ -59,6 +82,18 @@
 					[
 						0
 					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "Glad",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1
+					]
 				}
 			],
 			"targets" : 
@@ -66,9 +101,16 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "LAND_OUT::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-LAND_OUT-Debug-9034fd3e882f070fc1bf.json",
+					"jsonFile" : "target-LAND_OUT-Debug-cd9e99756fba272892dd.json",
 					"name" : "LAND_OUT",
 					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "glad::@8c9a60a59ff16c32daa4",
+					"jsonFile" : "target-glad-Debug-67bf4d4b8d4735e0c758.json",
+					"name" : "glad",
+					"projectIndex" : 1
 				}
 			]
 		}

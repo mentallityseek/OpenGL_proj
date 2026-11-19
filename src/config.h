@@ -5,4 +5,5 @@
 //glad -> extra OpenGl funcs
 
 #include <iostream>
+#include "glad/include/glad/glad.h"
 #include <GLFW/glfw3.h>

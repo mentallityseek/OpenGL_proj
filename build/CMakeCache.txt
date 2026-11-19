@@ -14,42 +14,6 @@
 # EXTERNAL cache entries
 ########################
 
-//Value Computed by CMake
-$"PRO"_BINARY_DIR:STATIC=C:/Users/Gamer/Desktop/OpenGL/build
-
-//Value Computed by CMake
-$"PRO"_IS_TOP_LEVEL:STATIC=ON
-
-//Value Computed by CMake
-$"PRO"_SOURCE_DIR:STATIC=C:/Users/Gamer/Desktop/OpenGL
-
-//Value Computed by CMake
-$"PROJECT_NAME"_BINARY_DIR:STATIC=C:/Users/Gamer/Desktop/OpenGL/build
-
-//Value Computed by CMake
-$"PROJECT_NAME"_IS_TOP_LEVEL:STATIC=ON
-
-//Value Computed by CMake
-$"PROJECT_NAME"_SOURCE_DIR:STATIC=C:/Users/Gamer/Desktop/OpenGL
-
-//Value Computed by CMake
-$"PROJECT_NAME}"_BINARY_DIR:STATIC=C:/Users/Gamer/Desktop/OpenGL/build
-
-//Value Computed by CMake
-$"PROJECT_NAME}"_IS_TOP_LEVEL:STATIC=ON
-
-//Value Computed by CMake
-$"PROJECT_NAME}"_SOURCE_DIR:STATIC=C:/Users/Gamer/Desktop/OpenGL
-
-//Value Computed by CMake
-$"{PROJECT_NAME}"_BINARY_DIR:STATIC=C:/Users/Gamer/Desktop/OpenGL/build
-
-//Value Computed by CMake
-$"{PROJECT_NAME}"_IS_TOP_LEVEL:STATIC=ON
-
-//Value Computed by CMake
-$"{PROJECT_NAME}"_SOURCE_DIR:STATIC=C:/Users/Gamer/Desktop/OpenGL
-
 //Path to a program.
 CMAKE_ADDR2LINE:FILEPATH=C:/msys64/ucrt64/bin/addr2line.exe
 
@@ -306,10 +270,6 @@ CMAKE_TAPI:FILEPATH=CMAKE_TAPI-NOTFOUND
 // Studio IDE projects all commands are done without /nologo.
 CMAKE_VERBOSE_MAKEFILE:BOOL=FALSE
 
-GLFW_:BOOL=OFF
-
-GLFW_BOUILD_DOCS:BOOL=OFF
-
 GLFW_BUILD_DOCS:BOOL=OFF
 
 GLFW_BUILD_EXAMPLES:BOOL=OFF
@@ -317,6 +277,15 @@ GLFW_BUILD_EXAMPLES:BOOL=OFF
 GLFW_BUILD_TESTS:BOOL=OFF
 
 GLFW_INSTALL:BOOL=OFF
+
+//Value Computed by CMake
+Glad_BINARY_DIR:STATIC=C:/Users/Gamer/Desktop/OpenGL/build/dependencies/glad
+
+//Value Computed by CMake
+Glad_IS_TOP_LEVEL:STATIC=OFF
+
+//Value Computed by CMake
+Glad_SOURCE_DIR:STATIC=C:/Users/Gamer/Desktop/OpenGL/dependencies/glad
 
 //Value Computed by CMake
 LAND_OUT_BINARY_DIR:STATIC=C:/Users/Gamer/Desktop/OpenGL/build
@@ -446,7 +415,7 @@ CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_NM
 CMAKE_NM-ADVANCED:INTERNAL=1
 //number of local generators
-CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=1
+CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=2
 //ADVANCED property for variable: CMAKE_OBJCOPY
 CMAKE_OBJCOPY-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_OBJDUMP

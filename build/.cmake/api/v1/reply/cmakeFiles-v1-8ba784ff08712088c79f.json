@@ -285,6 +285,9 @@
 		{
 			"isExternal" : true,
 			"path" : "C:/msys64/ucrt64/lib/cmake/glfw3/glfw3Targets-release.cmake"
+		},
+		{
+			"path" : "dependencies/glad/CMakeLists.txt"
 		}
 	],
 	"kind" : "cmakeFiles",

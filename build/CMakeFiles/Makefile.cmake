@@ -53,6 +53,7 @@ set(CMAKE_MAKEFILE_DEPENDS
   "CMakeFiles/4.4.5/CMakeCXXCompiler.cmake"
   "CMakeFiles/4.4.5/CMakeRCCompiler.cmake"
   "CMakeFiles/4.4.5/CMakeSystem.cmake"
+  "C:/Users/Gamer/Desktop/OpenGL/dependencies/glad/CMakeLists.txt"
   "C:/msys64/ucrt64/lib/cmake/glfw3/glfw3Config.cmake"
   "C:/msys64/ucrt64/lib/cmake/glfw3/glfw3ConfigVersion.cmake"
   "C:/msys64/ucrt64/lib/cmake/glfw3/glfw3Targets-release.cmake"
@@ -68,9 +69,11 @@ set(CMAKE_MAKEFILE_OUTPUTS
 # Byproducts of CMake generate step:
 set(CMAKE_MAKEFILE_PRODUCTS
   "CMakeFiles/CMakeDirectoryInformation.cmake"
+  "dependencies/glad/CMakeFiles/CMakeDirectoryInformation.cmake"
   )
 
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/LAND_OUT.dir/DependInfo.cmake"
+  "dependencies/glad/CMakeFiles/glad.dir/DependInfo.cmake"
   )

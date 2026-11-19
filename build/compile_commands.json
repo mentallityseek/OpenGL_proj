@@ -4,5 +4,11 @@
   "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles\\LAND_OUT.dir\\includes_CXX.rsp -g -o CMakeFiles\\LAND_OUT.dir\\src\\main.cpp.obj -c C:\\Users\\Gamer\\Desktop\\OpenGL\\src\\main.cpp",
   "file": "C:/Users/Gamer/Desktop/OpenGL/src/main.cpp",
   "output": "CMakeFiles/LAND_OUT.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Gamer/Desktop/OpenGL/build/dependencies/glad",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe  @CMakeFiles\\glad.dir\\includes_C.rsp -g -o CMakeFiles\\glad.dir\\src\\glad.c.obj -c C:\\Users\\Gamer\\Desktop\\OpenGL\\dependencies\\glad\\src\\glad.c",
+  "file": "C:/Users/Gamer/Desktop/OpenGL/dependencies/glad/src/glad.c",
+  "output": "dependencies/glad/CMakeFiles/glad.dir/src/glad.c.obj"
 }
 ]

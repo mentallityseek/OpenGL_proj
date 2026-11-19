@@ -46,6 +46,12 @@
 				"parent" : 0
 			},
 			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 27,
+				"parent" : 0
+			},
+			{
 				"command" : 3,
 				"file" : 0,
 				"line" : 16,
@@ -58,6 +64,17 @@
 		"major" : 2,
 		"minor" : 11
 	},
+	"compileDependencies" : 
+	[
+		{
+			"backtrace" : 3,
+			"id" : "glad::@8c9a60a59ff16c32daa4"
+		},
+		{
+			"backtrace" : 4,
+			"id" : "glad::@8c9a60a59ff16c32daa4"
+		}
+	],
 	"compileGroups" : 
 	[
 		{
@@ -70,8 +87,12 @@
 			"includes" : 
 			[
 				{
-					"backtrace" : 4,
+					"backtrace" : 5,
 					"path" : "C:/Users/Gamer/Desktop/OpenGL/dependencies"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "C:/Users/Gamer/Desktop/OpenGL/dependencies/glad/include"
 				}
 			],
 			"language" : "CXX",
@@ -87,6 +108,13 @@
 			[
 				1
 			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 3,
+			"id" : "glad::@8c9a60a59ff16c32daa4"
 		}
 	],
 	"id" : "LAND_OUT::@6890427a1f51a3e7e1df",
@@ -109,6 +137,16 @@
 				"role" : "libraries"
 			},
 			{
+				"backtrace" : 3,
+				"fragment" : "dependencies\\glad\\libglad.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "dependencies\\glad\\libglad.a",
+				"role" : "libraries"
+			},
+			{
 				"fragment" : "-lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32",
 				"role" : "libraries"
 			}
@@ -120,6 +158,14 @@
 		{
 			"backtrace" : 3,
 			"fragment" : "glfw3"
+		},
+		{
+			"backtrace" : 3,
+			"id" : "glad::@8c9a60a59ff16c32daa4"
+		},
+		{
+			"backtrace" : 4,
+			"id" : "glad::@8c9a60a59ff16c32daa4"
 		}
 	],
 	"name" : "LAND_OUT",

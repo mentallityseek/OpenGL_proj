@@ -3,7 +3,8 @@
 
 CMakeFiles/LAND_OUT.dir/src/main.cpp.obj: C:/Users/Gamer/Desktop/OpenGL/src/main.cpp \
   C:/Users/Gamer/Desktop/OpenGL/dependencies/GLFW/glfw3.h \
-  C:/msys64/ucrt64/include/GL/gl.h \
+  C:/Users/Gamer/Desktop/OpenGL/dependencies/glad/include/KHR/khrplatform.h \
+  C:/Users/Gamer/Desktop/OpenGL/dependencies/glad/include/glad/glad.h \
   C:/msys64/ucrt64/include/_mingw.h \
   C:/msys64/ucrt64/include/_mingw_mac.h \
   C:/msys64/ucrt64/include/_mingw_off_t.h \
@@ -166,19 +167,21 @@ C:/Users/Gamer/Desktop/OpenGL/dependencies/GLFW/glfw3.h:
 
 C:/msys64/ucrt64/include/_mingw_off_t.h:
 
-C:/msys64/ucrt64/include/c++/15.2.0/bits/locale_facets.tcc:
+C:/Users/Gamer/Desktop/OpenGL/dependencies/glad/include/KHR/khrplatform.h:
 
-C:/msys64/ucrt64/include/c++/15.2.0/bits/locale_classes.h:
-
-C:/msys64/ucrt64/include/c++/15.2.0/bits/exception.h:
-
-C:/msys64/ucrt64/include/GL/gl.h:
+C:/msys64/ucrt64/include/c++/15.2.0/bits/charconv.h:
 
 C:/msys64/ucrt64/include/_mingw_secapi.h:
 
 C:/msys64/ucrt64/include/_mingw.h:
 
 C:/msys64/ucrt64/include/c++/15.2.0/bits/streambuf.tcc:
+
+C:/msys64/ucrt64/include/c++/15.2.0/bits/locale_classes.tcc:
+
+C:/msys64/ucrt64/include/wchar.h:
+
+C:/Users/Gamer/Desktop/OpenGL/dependencies/glad/include/glad/glad.h:
 
 C:/msys64/ucrt64/include/c++/15.2.0/bits/localefwd.h:
 
@@ -220,8 +223,6 @@ C:/msys64/ucrt64/include/c++/15.2.0/ext/string_conversions.h:
 
 C:/msys64/ucrt64/include/c++/15.2.0/bits/char_traits.h:
 
-C:/msys64/ucrt64/include/c++/15.2.0/bits/charconv.h:
-
 C:/msys64/ucrt64/include/c++/15.2.0/bits/postypes.h:
 
 C:/msys64/ucrt64/include/c++/15.2.0/bits/ios_base.h:
@@ -239,6 +240,12 @@ C:/msys64/ucrt64/include/c++/15.2.0/bits/cpp_type_traits.h:
 C:/msys64/ucrt64/include/c++/15.2.0/bits/exception_defines.h:
 
 C:/msys64/ucrt64/include/c++/15.2.0/bits/cxxabi_forced.h:
+
+C:/msys64/ucrt64/include/c++/15.2.0/bits/locale_facets.tcc:
+
+C:/msys64/ucrt64/include/c++/15.2.0/bits/locale_classes.h:
+
+C:/msys64/ucrt64/include/c++/15.2.0/bits/exception.h:
 
 C:/msys64/ucrt64/include/c++/15.2.0/bits/exception_ptr.h:
 
@@ -259,8 +266,6 @@ C:/msys64/ucrt64/include/c++/15.2.0/bits/hash_bytes.h:
 C:/msys64/ucrt64/include/c++/15.2.0/bits/invoke.h:
 
 C:/msys64/ucrt64/include/c++/15.2.0/bits/istream.tcc:
-
-C:/msys64/ucrt64/include/c++/15.2.0/bits/locale_classes.tcc:
 
 C:/msys64/ucrt64/include/c++/15.2.0/bits/locale_facets.h:
 
@@ -445,8 +450,6 @@ C:/msys64/ucrt64/include/sys/types.h:
 C:/msys64/ucrt64/include/time.h:
 
 C:/msys64/ucrt64/include/vadefs.h:
-
-C:/msys64/ucrt64/include/wchar.h:
 
 C:/msys64/ucrt64/include/wctype.h:
 

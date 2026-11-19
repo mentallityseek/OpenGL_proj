@@ -95,6 +95,8 @@ LAND_OUT_EXTERNAL_OBJECTS =
 
 LAND_OUT.exe: CMakeFiles/LAND_OUT.dir/src/main.cpp.obj
 LAND_OUT.exe: CMakeFiles/LAND_OUT.dir/build.make
+LAND_OUT.exe: dependencies/glad/libglad.a
+LAND_OUT.exe: dependencies/glad/libglad.a
 LAND_OUT.exe: CMakeFiles/LAND_OUT.dir/linkLibs.rsp
 LAND_OUT.exe: CMakeFiles/LAND_OUT.dir/objects1.rsp
 LAND_OUT.exe: CMakeFiles/LAND_OUT.dir/link.txt

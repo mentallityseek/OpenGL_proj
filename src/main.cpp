@@ -22,6 +22,9 @@ void glfwKeyCallBack(GLFWwindow *pWindow, int key, int scancode, int action, int
 
 int main()
 {
+
+    setlocale(LC_ALL, "ru_RU.UTF-8");
+
     // Проверка инициализации библиотеки
     if (!glfwInit())
     {
